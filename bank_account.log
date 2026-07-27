@@ -1,0 +1,13 @@
+INFO:__main__:Account Created for Hiba with balance 5000
+INFO:__main__:Account Creation Successful
+INFO:__main__:Deposit Started
+INFO:__main__:Deposit Successful. New balance: 6000
+INFO:__main__:Withdraw Started
+ERROR:__main__:Withdrawal failed. Insufficient balance.
+2026-07-27 16:34:09,967 - INFO - Account created for Hiba with balance 5000
+2026-07-27 16:34:09,967 - INFO - Deposit started: 1000
+2026-07-27 16:34:09,967 - INFO - Deposited 1000. Current balance: 6000
+2026-07-27 16:34:09,967 - INFO - Withdrawal requested: 8000
+2026-07-27 16:34:09,967 - WARNING - Withdrawal failed. Available balance: 6000
+2026-07-27 16:34:09,967 - ERROR - Insufficient balance.
+2026-07-27 16:34:09,968 - INFO - Balance checked: 6000
