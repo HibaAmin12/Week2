@@ -1,0 +1,34 @@
+2026-07-27 18:09:54,673 | INFO | Account created for Hiba with balance 5000
+2026-07-27 18:09:54,673 | INFO | Account created for Ali with balance 10000
+2026-07-27 18:09:54,673 | INFO | Account added: Hiba
+2026-07-27 18:09:54,673 | INFO | Account added: Ali
+2026-07-27 18:09:54,673 | INFO | $1000 deposited. Current balance: 6000
+2026-07-27 18:09:54,673 | INFO | $500 deposited. Current balance: 10500
+2026-07-27 18:09:54,673 | INFO | $1050.0 deposited. Current balance: 11550.0
+2026-07-27 18:09:54,673 | INFO | Interest added: 1050.0
+2026-07-27 18:09:54,674 | WARNING | Withdrawal failed. Available balance: 6000
+2026-07-27 18:09:54,674 | ERROR | Insufficient balance.
+2026-07-27 18:09:54,674 | INFO | Balance checked: 6000
+2026-07-27 18:09:54,674 | INFO | Current Balance = 6000
+2026-07-27 18:09:54,674 | INFO | Total Bank Balance: 17550.0
+2026-07-27 18:09:54,674 | INFO | Total Bank Balance = 17550.0
+2026-07-27 18:09:54,674 | INFO | Transactions Loaded = [{'type': 'Deposit', 'amount': 1000, 'time': '2026-07-27T18:09:54.673692'}]
+2026-07-27 18:09:54,674 | INFO | Today's Transactions = [{'type': 'Deposit', 'amount': 1000, 'time': '2026-07-27T18:09:54.673692'}]
+2026-07-27 18:09:54,674 | INFO | Category Count = Counter({'Deposit': 1})
+2026-07-27 18:09:54,674 | INFO | Grouped Amounts = {'Deposit': [1000]}
+2026-07-27 18:09:54,674 | ERROR | Type hints are not enforced by Python: unsupported operand type(s) for +=: 'int' and 'str'
+2026-07-27 18:15:53,133 | INFO | Account created for Hiba
+2026-07-27 18:15:53,133 | INFO | Account created for Ali
+2026-07-27 18:15:53,133 | INFO | $1000 deposited successfully. Balance = 6000
+2026-07-27 18:15:53,134 | INFO | $500 deposited successfully. Balance = 10500
+2026-07-27 18:15:53,134 | INFO | $1050.0 deposited successfully. Balance = 11550.0
+2026-07-27 18:15:53,134 | INFO | Interest Added = 1050.0
+2026-07-27 18:15:53,134 | WARNING | Withdrawal of $7000 failed.
+2026-07-27 18:15:53,134 | ERROR | Insufficient balance.
+2026-07-27 18:15:53,134 | INFO | Current Balance = 6000
+2026-07-27 18:15:53,134 | INFO | Total Bank Balance = 17550.0
+2026-07-27 18:15:53,135 | INFO | Transactions Loaded = [{'transaction_type': 'Deposit', 'amount': 1000, 'time': '2026-07-27T18:15:53.133901'}]
+2026-07-27 18:15:53,135 | INFO | Today's Transactions = [{'transaction_type': 'Deposit', 'amount': 1000, 'time': '2026-07-27T18:15:53.133901'}]
+2026-07-27 18:15:53,135 | INFO | Category Count = Counter({'Deposit': 1})
+2026-07-27 18:15:53,135 | INFO | Grouped Amounts = {'Deposit': [1000]}
+2026-07-27 18:15:53,135 | ERROR | Type hints are not enforced by Python: unsupported operand type(s) for +=: 'int' and 'str'
