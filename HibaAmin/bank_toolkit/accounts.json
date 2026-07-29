@@ -1,0 +1,1 @@
+[{"type": "BankAccount", "owner": "Hiba", "balance": 100}, {"type": "SavingsAccount", "owner": "Ali", "balance": 200, "interest_rate": 0.1}]
